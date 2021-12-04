@@ -1,0 +1,7 @@
+Django
+django-braces>=1.11.0
+django-crispy-forms>=1.6.1
+django-extensions>=1.7.7
+warrant
+mysqlclient
+unipath
